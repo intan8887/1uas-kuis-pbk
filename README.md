@@ -1,4 +1,6 @@
-# pbk-uas
+# UAS LAB PBK
+NAMA : Ilama Kasara Intan
+NPM : 193510313
 
 ## Project setup
 ```
